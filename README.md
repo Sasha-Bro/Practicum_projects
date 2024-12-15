@@ -16,6 +16,7 @@
 
 В итоге должно получится примерно так: https://github.com/Yandex-Practicum/practicum_data_example_repo.
 
+<br>/
 
 **Как усилить портфолио**
 
