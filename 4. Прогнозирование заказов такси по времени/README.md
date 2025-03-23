@@ -8,10 +8,13 @@
 
 Построить модель машинного обучения для прогноза количества заказов такси на следующий час.
 
-## Стек технологий
+## Стек
 
 - Pandas
 - NumPy
+- Seaborn
+- Matplotlib
+- StatsModels
 - LightGBM
 - CatBoost
 - Scikit-learn
