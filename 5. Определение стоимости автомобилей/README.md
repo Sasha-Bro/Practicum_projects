@@ -8,10 +8,12 @@
 
 Построить модель машинного обучения для расчета рыночной стоимости автомобилей.
 
-## Стек технологий
+## Стек 
 
 - Pandas
 - NumPy
+- Seaborn
+- Matplotlib
 - LightGBM
 - CatBoost
 - Scikit-learn
