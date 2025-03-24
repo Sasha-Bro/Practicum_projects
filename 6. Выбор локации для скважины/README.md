@@ -14,4 +14,5 @@
 - NumPy
 - Seaborn
 - Matplotlib
+- Phik
 - Scikit-learn
