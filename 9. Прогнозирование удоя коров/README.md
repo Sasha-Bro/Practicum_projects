@@ -14,5 +14,5 @@
 - Matplotlib
 - Seaborn
 - Phik
-- Skipy
+- SkiPy
 - Scikit-learn
